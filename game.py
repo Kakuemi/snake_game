@@ -1,7 +1,7 @@
 import pygame
 import player
 import food
-
+#серега лох кста
 class Game_Window(object):
 	def __init__(self):
 		pygame.init()
