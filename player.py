@@ -20,7 +20,7 @@ class Snake(object) :
 		self.lenght = 10
 
 		self.tail = []
-		self.time_tick = 100
+		self.time_tick = 130
 		self.speed = 20
 		self.time = 0
 		self.last_key = None

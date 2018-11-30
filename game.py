@@ -59,4 +59,3 @@ class Game_Window(object):
 if __name__ == '__main__':
 	app = Game_Window()
 	app.run()
-
